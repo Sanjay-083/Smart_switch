@@ -5,12 +5,12 @@
 #include <DHT.h>
 
 // WiFi Credentials
-#define WIFI_SSID "iQOO Z5"
-#define WIFI_PASSWORD "Abhi@Pragz"
+#define WIFI_SSID "  "
+#define WIFI_PASSWORD "   "
 
 // Firebase Configuration
 #define DATABASE_URL "https://smart-hub-13f70-default-rtdb.firebaseio.com"
-#define API_KEY "AIzaSyDM-Plif3Uhm0L4Hh6FyDoLIfeP48u8Hxs"
+#define API_KEY "   "
 
 FirebaseConfig config;
 FirebaseAuth auth;
